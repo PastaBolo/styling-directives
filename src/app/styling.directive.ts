@@ -1,3 +1,7 @@
+/**
+ * We can use this technic because /deep/, >>>, and ::ng-deep are deprecated
+ */
+
 import { Component, ViewEncapsulation } from '@angular/core';
 
 @Component({
